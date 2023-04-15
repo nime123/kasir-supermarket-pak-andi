@@ -197,18 +197,31 @@ Pada bagian ini kita melakukan test code yang sudah kita buat diatas.
 1. customer menambahkan item kedalam keranjang belanja
 ![alt text](https://github.com/nime123/kasir-supermarket-pak-andi/blob/main/tambah%20item.png?raw=true)
 2. customer mengupdate nama item
+
 ![alt text](https://github.com/nime123/kasir-supermarket-pak-andi/blob/main/update%20nama.png?raw=true)
+
 3. customer mengupdate jumlah
+
 ![alt text](https://github.com/nime123/kasir-supermarket-pak-andi/blob/main/update%20jumlah.png?raw=true)
+
 4. Customer mengupdate harga
+
 ![alt text](https://github.com/nime123/kasir-supermarket-pak-andi/blob/main/update%20harga.png?raw=true)
+
 5. customer menghapus item yang tidak diinginkan
+
 ![alt text](https://github.com/nime123/kasir-supermarket-pak-andi/blob/main/hapus%20item.png?raw=true)
+
 6. customer melakukan reset item
+
 ![alt text](https://github.com/nime123/kasir-supermarket-pak-andi/blob/main/reset%20item.png?raw=true)
+
 7. customer mengecek keranjang belanja
+
 ![alt text](https://github.com/nime123/kasir-supermarket-pak-andi/blob/main/keranjang%20belanja.png?raw=true)
+
 8. customer melihat keranjang belanja
+
 ![alt text](https://github.com/nime123/kasir-supermarket-pak-andi/blob/main/total%20belanja.png?raw=true)
 
 #coclusion
