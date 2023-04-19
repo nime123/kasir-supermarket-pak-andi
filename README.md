@@ -19,8 +19,6 @@ system kasir ini memiliki 2 file yaitu main.py dan modul.py.
 
 Main.py
 
-from modul import Transaction as transaction
-
 while True:
     print("\n------------ Supermarket Andi -------------")
     print("-------------- Main Menu ------------------\n")
@@ -224,10 +222,10 @@ Pada bagian ini kita melakukan test code yang sudah kita buat diatas.
 
 ![alt text](https://github.com/nime123/kasir-supermarket-pak-andi/blob/main/total%20belanja.png?raw=true)
 
-#coclusion
+# coclusion
 berdasarkan requrements yang ada, semuanya biasa berjalan sesuai dengan harapan dan keinginan . dan memudahkan customer untuk menginput, mnegupdate, menghapus serta melakukan perhitungan total belanja.
 
-#Future development
+# Future development
 1. menambah grapict user interface agar lebih menarik dan lebih  mudah digunakan.
 2. melakukan pencarian item yang pelanggan inginkan.
 
